@@ -1,2 +1,2 @@
-# CaoWiki
-种草百科
+# 种草百科 - CaoWiki
+
